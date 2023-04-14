@@ -24,11 +24,11 @@ Trong phần dự đoán mình sử dụng các mô hình học máy và học s
 - Biểu đồ thể hiện loss và mse  <image src='img/loss, mse.png'>
 - Biểu đồ thể hiện giá trị thực và dự đoán  <image src='img/y_true, y_pred.png'>
 - Biểu đồ thể hiện dự đoán giá cổ phiếu 14 ngày tiếp theo  <image src='img/predict_future.png'>  
-- Bảng so sánh các model
-  <image src='img/compare.PNG'>  
+- Bảng so sánh các model  
+<image src='img/compare.PNG'>  
 ### 3.2 Đối với tập đặc trưng sử dụng correlation
 - Biểu đồ thể hiện loss và mse  <image src='img/loss, mse 2.png'>  
 - Biểu đồ thể hiện giá trị thực và dự đoán  <image src='img/y_true, y_pred 2.png'>  
 - Biểu đồ thể hiện dự đoán giá cổ phiếu 14 ngày tiếp theo  <image src='img/predict_future 2.png'>  
-- Bảng so sánh các model
-  <image src='img/compare 2.PNG'>  
+- Bảng so sánh các model  
+<image src='img/compare 2.PNG'>  
